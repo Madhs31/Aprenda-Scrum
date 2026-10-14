@@ -40,40 +40,6 @@ Seu objetivo é facilitar o aprendizado do **framework Scrum** de maneira práti
 - 🧭 **Navegação entre módulos:** exploração dos conteúdos de maneira estruturada.
 - 📱 **Interface responsiva:** adaptação para computadores e dispositivos móveis.
 
----
-
-<a id="cronograma"></a>
-
-## 📅 Cronograma
-
-| **Eventos** | **Datas** |
-| :--- | :---: |
-| 💡 **Kick-off** | 12/03/2024 |
-| 💻 **Desenvolvimento** | 25/03/24 – 16/06/24 |
-| 🎯 **Feira de soluções** | 27/06/2024 |
-
-<a id="prototipo"></a>
-
-## 🪞 Protótipo
-
-Protótipo da plataforma **Aprenda Scrum**, elaborado no Figma para apresentar a proposta visual das páginas e apoiar a validação do layout e da navegação.
-
-<div align="center">
-
-<a href="https://github.com/raphaelamonteiro/aprenda-scrum/blob/main/assets/img/Telas.jpg">
-  <img
-    src="https://raw.githubusercontent.com/raphaelamonteiro/aprenda-scrum/main/assets/img/Telas.jpg"
-    alt="Telas do protótipo da plataforma Aprenda Scrum"
-    width="100%"
-  />
-</a>
-
-<br>
-
-<sub>Protótipo da aplicação · Equipe AdaLove · Clique na imagem para ampliar</sub>
-
-</div>
-
 <a id="demonstracao"></a>
 
 ## 🎥 Demonstração
@@ -147,3 +113,37 @@ Meu trabalho teve foco na organização visual das páginas, na responsividade e
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" />
 </p>
+
+---
+
+<a id="prototipo"></a>
+
+## 🪞 Protótipo
+
+Protótipo da plataforma **Aprenda Scrum**, elaborado no Figma para apresentar a proposta visual das páginas e apoiar a validação do layout e da navegação.
+
+<div align="center">
+
+<a href="https://github.com/raphaelamonteiro/aprenda-scrum/blob/main/assets/img/Telas.jpg">
+  <img
+    src="https://raw.githubusercontent.com/raphaelamonteiro/aprenda-scrum/main/assets/img/Telas.jpg"
+    alt="Telas do protótipo da plataforma Aprenda Scrum"
+    width="100%"
+  />
+</a>
+
+<br>
+
+<sub>Protótipo da aplicação · Equipe AdaLove · Clique na imagem para ampliar</sub>
+
+</div>
+
+<a id="cronograma"></a>
+
+## 📅 Cronograma
+
+| **Eventos** | **Datas** |
+| :--- | :---: |
+| 💡 **Kick-off** | 12/03/2024 |
+| 💻 **Desenvolvimento** | 25/03/24 – 16/06/24 |
+| 🎯 **Feira de soluções** | 27/06/2024 |
