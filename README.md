@@ -118,7 +118,7 @@ Meu trabalho teve foco na organização visual das páginas, na responsividade e
 
 <a id="prototipo"></a>
 
-## 🪞 Protótipo
+## ✨ Protótipo
 
 Protótipo da plataforma **Aprenda Scrum**, elaborado no Figma para apresentar a proposta visual das páginas e apoiar a validação do layout e da navegação.
 
