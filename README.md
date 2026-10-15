@@ -140,7 +140,7 @@ Protótipo da plataforma **Aprenda Scrum**, elaborado no Figma para apresentar a
 
 <a id="cronograma"></a>
 
-## 📅 Cronograma
+## 📅 Entregas por Sprint
 
 | **Eventos** | **Datas** |
 | :--- | :---: |
