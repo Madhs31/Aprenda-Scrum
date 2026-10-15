@@ -22,6 +22,8 @@ Seu objetivo é facilitar o aprendizado do **framework Scrum** de maneira práti
 
 > 💡 Aprender Scrum enquanto aplicávamos Scrum: o projeto também foi organizado em Sprints, com colaboração entre os integrantes e entregas incrementais.
 
+<br>
+
 ## 🏢 Parceiro de negócios
 
 | Informação | Descrição |
@@ -31,14 +33,7 @@ Seu objetivo é facilitar o aprendizado do **framework Scrum** de maneira práti
 | **Contexto** | Projeto acadêmico com simulação de demandas reais de mercado |
 | **Equipe** | AdaLove |
 
-<a id="funcionalidades"></a>
-
-## 🚀 Funcionalidades
-
-- 📚 **Módulos de estudo:** conteúdos organizados para apresentar os conceitos do Scrum.
-- 🧩 **Quizzes:** atividades para revisar o conteúdo e avaliar o aprendizado.
-- 🧭 **Navegação entre módulos:** exploração dos conteúdos de maneira estruturada.
-- 📱 **Interface responsiva:** adaptação para computadores e dispositivos móveis.
+<br>
 
 <a id="demonstracao"></a>
 
@@ -57,7 +52,7 @@ Confira a versão final do sistema, apresentada na **Sprint IV**:
 
 </div>
 
----
+<br>
 
 <a id="atuacao"></a>
 
@@ -79,6 +74,8 @@ Meu trabalho teve foco na organização visual das páginas, na responsividade e
 | **⚙️ Back-end** | Contribuições no desenvolvimento com Flask e na integração entre as interfaces e a aplicação. |
 
 <a id="tecnologias"></a>
+
+<br>
 
 ## 💻 Tecnologias utilizadas
 
@@ -114,7 +111,7 @@ Meu trabalho teve foco na organização visual das páginas, na responsividade e
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" />
 </p>
 
----
+<br>
 
 <a id="prototipo"></a>
 
@@ -137,6 +134,8 @@ Protótipo da plataforma **Aprenda Scrum**, elaborado no Figma para apresentar a
 <sub>Protótipo da aplicação · Equipe AdaLove · Clique na imagem para ampliar</sub>
 
 </div>
+
+<br>
 
 <a id="cronograma"></a>
 
